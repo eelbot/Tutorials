@@ -22,8 +22,8 @@ a = 5
 
 # Let's take a moment and dissect some things that may look new
 #   1.  There is no type declaration. In python, you just give a
-#       variable name and a value in order to declare a variable
-#   2.  No semi-colons! In python, there are no semi-colon's to declare
+#       variable name and a value
+#   2.  No semi-colons! In python, there are no semi-colons to declare
 #       the end of a statement. A new statement is denoted by a new line
 
 # Let's delve a little deeper into...
@@ -52,7 +52,8 @@ c = b // a  # Floor division. Quotient with the decimal removed. c = 2
 # We will take a look at some program flow control.
 
 # Let's make an if statement!
-a = 2   # First let's declare some variables
+# First let's declare some variables
+a = 2
 b = 5
 if a == b:
     print("Equal")
@@ -60,7 +61,7 @@ if a == b:
 # Lots of new Python syntax!
 #   1.  There are no brackets around the comparison. (You can put them if
 #       you feel like it)
-#   2.  There are no curly braces! In Python, blocks of code are denoted by
+#   2.  There are no curly braces. In Python, blocks of code are denoted by
 #       putting an indent of 4 spaces on the next line.
 
 # Now take an if/else if block
