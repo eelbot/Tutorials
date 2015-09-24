@@ -1,0 +1,2 @@
+# PCB Tutorials
+These tutorials are focused on using the program EagleCAD to create PCB's. It will be updated periodically with more information, and tutorials. If you are just starting out, I recommend (and expect in my first tutorial) that you complete the sparkfun guide to installing and setting up eagle, found here: [Sparkfun Eagle Tutorial](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle)
