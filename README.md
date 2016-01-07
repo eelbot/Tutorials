@@ -1,9 +1,12 @@
 # Tutorials
 
 This repository is meant to hold tutorials and projects
-that are used for teaching and workshops. There is a lot of
-text in some of these tutorials, and so if you spot a
-problem, please point it out so I can fix it!
+that are used for teaching and workshops. These are not meant
+as a replacement for other resources. They are just meant as a
+useful tool that I am incredibly familiar with to teach or help
+with certain concepts. There is a lot of text in some of these
+tutorials, and so if you spot a problem, please point it
+out so I can fix it! 
 
 
 ## Python
